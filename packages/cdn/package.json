@@ -32,7 +32,7 @@
     "@wagmi/connectors": "5.1.9",
     "@wagmi/core": "2.13.4",
     "viem": "2.21.4",
-    "vite": "5.2.11",
+    "vite": "5.2.14",
     "wagmi": "2.12.9"
   }
 }
